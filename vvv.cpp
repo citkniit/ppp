@@ -34,4 +34,4 @@ int main()
         cout << fib(i) << endl;
     }
     return 0;
-
+}
